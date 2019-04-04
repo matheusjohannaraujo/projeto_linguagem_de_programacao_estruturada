@@ -2,9 +2,9 @@ https://github.com/matheusjohannaraujo/projeto_linguagem_de_programacao_estrutur
 
 Resolução de atividade da disciplina Linguagem de Programação Estruturada feita em C#
 
-Faculdade: IPESU/FAREC
-Curso: Bacharelado em Ciência da Computação
-Disciplina: Linguagem de Programação Estruturada
-Professor: Rômulo Lima
-Período/Turno: 2º/Noite
+Faculdade: IPESU/FAREC<br>
+Curso: Bacharelado em Ciência da Computação<br>
+Disciplina: Linguagem de Programação Estruturada<br>
+Professor: Rômulo Lima<br>
+Período/Turno: 2º/Noite<br>
 Estudante: Matheus Johann Araújo
